@@ -293,7 +293,7 @@ function Resume({ pdfRef }) {
               />
             </div>
             <div className="con">
-              <h1>{name}</h1>
+              <h1>{name.toUpperCase()}</h1>
               <h2>{post}</h2>
             </div>
           </div>

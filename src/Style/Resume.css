@@ -97,6 +97,9 @@
   letter-spacing: 0px;
   display: flex;
   justify-content: left;
+  font-size: 35px;
+  white-space: nowrap;
+  letter-spacing: -2px;
 }
 .main-page .right .name h2 {
   padding-left: 5px;
