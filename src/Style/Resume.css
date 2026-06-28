@@ -2,7 +2,7 @@
   display: flex;
   gap: 10px;
   color: black;
-  padding:0px 15px 15px 10px;
+  padding: 0px 15px 15px 10px;
 }
 .main-page .left {
   display: flex;
@@ -14,7 +14,7 @@
   width: 30%;
   background-color: white;
 }
-.main-page .left button{
+.main-page .left button {
   padding: 5px;
   background-color: blue;
   color: white;
@@ -105,7 +105,7 @@
   padding-left: 5px;
   color: rgb(53, 53, 53);
 }
-.main-page .right .top .contact i{
+.main-page .right .top .contact i {
   color: blue;
 }
 .main-page .right .skill {
@@ -122,4 +122,8 @@
   display: flex;
   gap: 20px;
   flex-wrap: wrap;
+}
+.main-page .right .certificate a {
+  color: black;
+  text-decoration: none;
 }
