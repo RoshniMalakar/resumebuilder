@@ -33,10 +33,10 @@ function Resume({ pdfRef }) {
   };
 
   const [eddegree, setEddegree] = useState(
-    "Btech in Computer Science and Engineering",
+    "Degree Name",
   );
   const [edclg, setEdclg] = useState(
-    "Patel College of Science and Technology, Indore",
+    "College or University NAme",
   );
   const [passyear, setPassyear] = useState("2024-2027");
   const [degree2, setDegree2] = useState("Second degree");
